@@ -1,0 +1,12 @@
+body{
+    background-color: rgb(214, 211, 213);
+    margin: 80px;
+}
+input[type=submit]{
+    background-color: green;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
